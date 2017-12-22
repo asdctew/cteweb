@@ -1,8 +1,17 @@
+@font-face {
+ font-family: "Lovelo";
+ src: url("LoveloBlack.woff") format("woff");
+}
 body{
    font-size: 30px;
+   font-family: "Lovelo", sans-serif;
+}
+p{
+   font-size: 12px;
+   font-family: "Open Sans", sans-serif;
 }
 .scroll_container{
-   padding-bottom: 50px;
+   padding-bottom: 300px;
 }
 div#birds{
 
